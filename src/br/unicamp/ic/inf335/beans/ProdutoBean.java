@@ -4,6 +4,7 @@ public class ProdutoBean implements java.io.Serializable, Comparable<ProdutoBean
 	/**
 	 * 
 	 */
+
 	private static final long serialVersionUID = 1L;
 	
 	private String codigo;
